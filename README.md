@@ -6,9 +6,10 @@
 - 주제 선정(Issue) > 정리 > 업로드(Commit & Pull Request)
 
    1. 선정된 주제는 Issue로 작성한다.
-      - 매 주 발표시간 이후 주제 선정 
+      - 매 주 발표시간 이후 주제 선정
+      - Issue Convention : `대분류/중분류/키워드`
    2. 주제에 대해 공부한 내용을 기한까지 업로드 한다. 
-      - 업로드는 `content/대분류/중분류` 디렉토리에 `키워드.md`파일로 작성한다.
+      - 업로드는 `대분류/중분류` 디렉토리에 `/키워드` 폴더 안에 작성한다.
       - Commit Convention : [상태]대분류/중분류/키워드<br>
       `ex) [Add/Update/Delete]Computer Science/자료구조/링크드리스트`
       - Pull Request
