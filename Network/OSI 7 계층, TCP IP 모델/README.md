@@ -37,8 +37,7 @@ OSI 7 계층은 ISO(International Organization for Standardization) 에서 정�
 - 전송 단위 : 프레임 (Frame)
 - 대표적 프로토콜 : Ethernet
     
-    ![Untitled](img
-/Untitled%203.png)
+    ![Untitled](img/Untitled%203.png)
     
 
 **네트워크 계층 - Network**
