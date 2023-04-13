@@ -26,7 +26,7 @@
 
 ### 보이스/코드(Boyce/Codd) 정규형 
 모든 결정자, 즉 함수 종속성이 존재할 때 Left Hand Side는 `Super Key`여야 한다.
-- 예시
+- 예시   
     <img src="https://user-images.githubusercontent.com/70866410/231774815-57f9dbca-79d7-4b46-a9e8-5b3cf667f330.png">    
     - 위 예시에서 플랫폼 별 등급은 다음과 같다.
         - 인프런 : Bronze, Silver, Gold, Diamond
